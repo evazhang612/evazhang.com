@@ -31,7 +31,7 @@ effort. This is a shame. There is no fault in the times.
 
 * With an intense, fresh and undelaying spirit, one will make his judgments within the space of seven breaths.  
 
-*If it is a single day’s work, one should be able to put up with it. Tomorrow, too, is but a single day. 
+* If it is a single day’s work, one should be able to put up with it. Tomorrow, too, is but a single day. 
 
 * Something that is not done at that time and at that place will remain unfinished for a lifetime.
 
