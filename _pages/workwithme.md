@@ -1,7 +1,7 @@
 ---
 layout: page 
 title: Build With Me 
-permalink: /build
+permalink: /archivedbuild
 ---
 
 Inspired by the page from [Ben Kuhn](https://www.benkuhn.net/work/). 
