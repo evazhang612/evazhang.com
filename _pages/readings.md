@@ -3,9 +3,7 @@ layout: page
 title: Readings
 permalink: /read/
 ---
-Currently making my way through [Infinite Jest](https://www.amazon.ca/Infinite-Jest-David-Foster-Wallace/dp/0316066524) and [On the Road](https://www.amazon.ca/Road-Jack-Kerouac/dp/0140042598). Looking for fun, longer reads. 
-
-Ongoing list of some all-time favourites and other iconic readings. The life ones are paired with songs to read to. My (current) favourite cs links can be found [here](https://www.evazhang.com/csreads). Here are some of my favourite [movies](https://www.evazhang.com/movies) of all time. 
+My (current) favourite technical links can be found [here](https://www.evazhang.com/csreads). Here are some of my favourite [movies](https://www.evazhang.com/movies) and [quotes](https://evazhang.com/quotes) of all time. 
 
 I do not necessarily agree with all of the thoughts included in readings below. Thanks to anyone who recommended readings on this list! Suggestions always welcome. 
 
@@ -30,6 +28,9 @@ I do not necessarily agree with all of the thoughts included in readings below. 
 
 ## How Do We Live & How Do Others Live? Vignettes
 
+[Hagakure](https://en.wikipedia.org/wiki/Hagakure)
+*A person who becomes fatigued when unhappy is useless.* 
+
 [The Trouble with Optionality - Mihir Desai Harvard Commencement Speech](https://www.thecrimson.com/article/2017/5/25/desai-commencement-ed/)
 
 *You can never create enough option value—and the longer you spend acquiring options, the harder it is to stop.*
@@ -38,7 +39,7 @@ I do not necessarily agree with all of the thoughts included in readings below. 
 
 [Considering Nontraditional Summer Opportunities - Rohan Pavuluri](https://docs.google.com/document/d/17lRRzTGRF_yWzUPg7hiOcFgAwxc7oFuqI3TBBst3s24/edit)
 
-A close-to-home related example on the topic of optionality.
+On optionality.
 
 <iframe src="https://open.spotify.com/embed/track/0y3Y9zD2UR0XVl5nP0dYbO" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Build
-permalink: /prevbuild/
+permalink: /build/
 ---
 
 ## Technical Interests 
