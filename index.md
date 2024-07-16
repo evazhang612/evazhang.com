@@ -17,7 +17,7 @@ Some things that interest and have interested me in the past:
 - startups, ventures, and new things
 - good coffee and scenic running routes
 
-Check out more specific projects, papers, and experiences [here](www.evazhang.com/build)
+Check out more specific projects, papers, and experiences [here](/build)
 
 You can find my [substack](https://evaz.substack.com) below. If you wanted to check out a sample, here's my most recent [post](https://twitter.com/newsycombinator/status/1349990374899646464) (trended Top 3 on HackerNew's front page for a bit). 
 
