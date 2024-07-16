@@ -75,7 +75,6 @@ On optionality.
 
 <iframe src="https://open.spotify.com/embed/track/6m3ZXs465Rt4Tc1iiLktXL" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-
 [Me Talk Pretty One Day - David Sedaris](https://www.esquire.com/lifestyle/a1419/talk-pretty-0399/)
 
 <iframe src="https://open.spotify.com/embed/track/1JvsbPEAeF59CvozxFldrN" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
