@@ -28,7 +28,7 @@ I do not necessarily agree with all of the thoughts included in readings below. 
 
 ## How Do We Live & How Do Others Live? Vignettes
 
-[Hagakure](https://en.wikipedia.org/wiki/Hagakure)
+[Hagakure](https://sofiografskaskola.com/wp-content/uploads/2021/03/%D0%88%D0%B0%D0%BC%D0%B0%D0%BC%D0%BE%D1%82%D0%BE-%D0%A6%D1%83%D0%BD%D0%B5%D1%82%D0%BE%D0%BC%D0%BE-%D0%A5%D0%B0%D0%B3%D0%B0%D0%BA%D1%83%D1%80%D0%B5.pdf)
 *A person who becomes fatigued when unhappy is useless.* 
 
 [The Trouble with Optionality - Mihir Desai Harvard Commencement Speech](https://www.thecrimson.com/article/2017/5/25/desai-commencement-ed/)
@@ -73,14 +73,14 @@ On optionality.
 
 *You enjoy work and will love your grandchildren, and somewhere in there you die.*
 
-<iframe src="https://open.spotify.com/embed/track/1JvsbPEAeF59CvozxFldrN" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/track/6m3ZXs465Rt4Tc1iiLktXL" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 [Me Talk Pretty One Day - David Sedaris](https://www.esquire.com/lifestyle/a1419/talk-pretty-0399/)
 
 <iframe src="https://open.spotify.com/embed/track/2shVib26gMOKusQvUDWByO" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-[Down and Out in Paris and London - George Orwell](https://www.planetebook.com/free-ebooks/down-and-out-in-paris-and-london.pdf)
+[Down and Out in Paris and London - George Orwell](https://www.planetebook.com/free-ebooks/down-and-out-in-paris-and-london.pdf) 
 
 
 ## Be Better 

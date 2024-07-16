@@ -45,4 +45,4 @@ Some of my most rewatched movies of all time (for one reason or another), listed
 
 - Bridget Jones' Diary
 
-- Margin Call / The Big Short
+- Margin Call
