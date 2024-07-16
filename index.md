@@ -9,12 +9,13 @@ I'm a human based out of San Francisco (mostly). Previously, I've spent chunks o
 I currently spend my time on machine learning research and engineering problems at Ritual. I previously built Socket (acq. 2023), and worked at Schmidt Futures. I studied Math (B.S) and Computer Science (M.S) at Stanford. 
 
 Some things that interest and have interested me in the past: 
-    - Open-source model inference and adaptation
-    - Robustness, interpretability, and provenance of models 
-    - AI governance and policy 
-	- Applications of models for science and policy problems
-    - startups, ventures, and new things
-    - good coffee and scenic running routes
+
+- Open-source model inference and adaptation
+- Robustness, interpretability, and provenance of models 
+- AI governance and policy 
+- Applications of models for science and policy problems
+- startups, ventures, and new things
+- good coffee and scenic running routes
 
 <!-- I am currently part of a team experimenting with new ways of powering up social networks. 
 
