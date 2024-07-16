@@ -4,7 +4,7 @@ title: Favourite movies.
 permalink: /movies/
 ---
 
-Some of my favourite movies of all time (for one reason or another), listed in no particular order. To like any of these movies is not entirely original, but then again the point of liking something is not to be original. 
+Some of my most rewatched movies of all time (for one reason or another), listed in no particular order. To like any of these movies is not entirely original, but then again the point of liking something is not to be original. 
 
 
 - Ocean's 11/12 
@@ -23,7 +23,9 @@ Some of my favourite movies of all time (for one reason or another), listed in n
 
 - Forrest Gump
 
-- Sound of Music
+- Moneyball
+
+- Sound of Music (1965)
 
 - The Social Network
 
@@ -35,19 +37,12 @@ Some of my favourite movies of all time (for one reason or another), listed in n
 
 - Inception 
 
-- Mr. and Mrs. Smith
-
-- Pirates of the Carribbean 1
-
-- Home Alone
-
-- Once Upon a Time in Hollywood
-
-- Ferris Bueller's Day Off
+- Mr. and Mrs. Smith (2005)
 
 - The Hunt for Red October 
 
 - The Imitation Game
 
-- Bridget Jones's Diary
+- Bridget Jones' Diary
 
+- Margin Call / The Big Short
