@@ -73,12 +73,12 @@ On optionality.
 
 *You enjoy work and will love your grandchildren, and somewhere in there you die.*
 
-<iframe src="https://open.spotify.com/track/6m3ZXs465Rt4Tc1iiLktXL" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/6m3ZXs465Rt4Tc1iiLktXL" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 [Me Talk Pretty One Day - David Sedaris](https://www.esquire.com/lifestyle/a1419/talk-pretty-0399/)
 
-<iframe src="https://open.spotify.com/track/1JvsbPEAeF59CvozxFldrN" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/track/1JvsbPEAeF59CvozxFldrN" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 [Down and Out in Paris and London - George Orwell](https://www.planetebook.com/free-ebooks/down-and-out-in-paris-and-london.pdf) 
 
