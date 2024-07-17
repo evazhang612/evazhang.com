@@ -17,7 +17,9 @@ Some things that interest and have interested me in the past:
 - startups, ventures, and new things
 - good coffee and scenic running routes
 
-Check out more specific projects, papers, and experiences [here](/build)
+Some other organizations and communities I've spent a bit of time in below. Check out more specific projects, papers, and experiences [here](/build)
+
+<img src="https://raw.githubusercontent.com/evazhang612/evazhang.com/master/assets/images/orgs.jpg" width="550" display:block align="middle"/>
 
 You can find my [substack](https://evaz.substack.com) below. If you wanted to check out a sample, here's my most recent [post](https://twitter.com/newsycombinator/status/1349990374899646464) (trended Top 3 on HackerNew's front page for a bit). 
 
